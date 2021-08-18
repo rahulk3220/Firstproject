@@ -1,0 +1,27 @@
+[
+    { 
+      "id": 1, 
+      "name": "Alice in Wonderland", 
+      "author": "Lewis Carroll" 
+    },
+    {
+        "id": 2,
+        "name": "Breakfast for Champions",
+        "author": "Kurt Vonnegut Jr."
+    },
+    { 
+        "id": 3, 
+        "name": "Kafka on a Shore", 
+        "author": "Haruki Murakami" 
+    },
+    { 
+        "id": 4, 
+        "name": "Crime and Punishment", 
+        "author": "Fyodor Dostoyevsky" 
+    },
+    {
+        "id": 5,
+        "name": "Harry Potter and The Philosophers Stone",
+        "author": "J.K. Rowling"
+    }
+]
